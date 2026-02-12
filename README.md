@@ -1,4 +1,5 @@
 # E-Commerce Database Schema
+
 ## Objective
 To design and implement a relational database schema for an E-Commerce system as part of the SQL Developer Internship Task-1.
 
@@ -37,4 +38,3 @@ A well-structured, normalized E-Commerce database schema with proper relationshi
 - `schema.sql` – SQL script to create database and tables
 - `ecommerce_er_diagram.png` – ER diagram of the database
 - `README.md` – Project documentation
-
