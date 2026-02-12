@@ -1,5 +1,4 @@
 # E-Commerce Database Schema
-
 ## Objective
 To design and implement a relational database schema for an E-Commerce system as part of the SQL Developer Internship Task-1.
 
