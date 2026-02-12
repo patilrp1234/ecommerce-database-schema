@@ -1,4 +1,3 @@
-# ecommerce-database-schema
 # E-Commerce Database Schema
 
 ## Objective
